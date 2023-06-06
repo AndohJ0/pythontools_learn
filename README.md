@@ -1,2 +1,4 @@
 # pythontools_learn
-A demonstration for Private course
+# A demonstration for private course
+
+## Python tools live course on Github
